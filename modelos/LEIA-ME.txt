@@ -1,0 +1,3 @@
+Coloca aqui os ficheiros .glb dos objetos 3D (ideal: 1 a 3 MB cada).
+Depois regista-os na lista OBJETOS em scripts/dados.js, por exemplo:
+  { nome: "Objeto 01", ficheiro: "modelos/objeto1.glb" }
